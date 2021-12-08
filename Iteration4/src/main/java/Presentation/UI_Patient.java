@@ -1,6 +1,7 @@
 package Presentation;
 
 import it2_package.Domain.Patient;
+import Presentation.UI_Login;
 
 public class UI_Patient {
 
