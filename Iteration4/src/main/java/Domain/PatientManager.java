@@ -1,5 +1,7 @@
 package Domain;
 
+import it2_package.Domain.Patient;
+
 public class PatientManager {
 
 	/**
@@ -15,7 +17,7 @@ public class PatientManager {
 	 * 
 	 * @param patient
 	 */
-	public void addPatient(Design.it2_package.Domain.Patient patient) {
+	public void addPatient(it2_package.Domain.Patient patient) {
 		// TODO - implement PatientManager.addPatient
 		throw new UnsupportedOperationException();
 	}
@@ -24,7 +26,7 @@ public class PatientManager {
 	 * 
 	 * @param patient
 	 */
-	public void updatePatient(Design.it2_package.Domain.Patient patient) {
+	public void updatePatient(it2_package.Domain.Patient patient) {
 		// TODO - implement PatientManager.updatePatient
 		throw new UnsupportedOperationException();
 	}
@@ -38,7 +40,7 @@ public class PatientManager {
 		throw new UnsupportedOperationException();
 	}
 
-	public Design.it2_package.Domain.Patient showPatients() {
+	public it2_package.Domain.Patient showPatients() {
 		// TODO - implement PatientManager.showPatients
 		throw new UnsupportedOperationException();
 	}
