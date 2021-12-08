@@ -5,6 +5,6 @@ public class Patient {
 	private String name;
 	private String DNI;
 	private String birthdate;
-	private healthState state;
+	private String state;
 
 }
