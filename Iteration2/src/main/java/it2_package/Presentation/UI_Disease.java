@@ -1,5 +1,7 @@
 package it2_package.Presentation;
 
+import Presentation.UI_Login;
+
 public class UI_Disease {
 
 	public void showInfection() {
