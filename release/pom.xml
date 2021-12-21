@@ -24,6 +24,12 @@
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
     
+    <dependency>
+      <groupId>com.iso_project</groupId>
+      <artifactId>Iteration3</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+    
      <dependency>
       <groupId>com.iso_project</groupId>
       <artifactId>Iteration4</artifactId>
